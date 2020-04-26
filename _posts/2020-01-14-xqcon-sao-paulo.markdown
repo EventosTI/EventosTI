@@ -1,7 +1,7 @@
 ---
 layout: post
 title: XQCon São Paulo 2020
-date:   2020-12-14 10:51:47 +0530
+date:   2020-01-14 10:51:47 +0530
 categories: qcon
 img: qcon.png
 ---
