@@ -1,4 +1,4 @@
-Demo: [http://webjeda.com/cards](http://webjeda.com/cards)
+Demo: [https://tech-eventos.netlify.app/](https://tech-eventos.netlify.app/)
 
 ## Installation
 * Fork the repository
