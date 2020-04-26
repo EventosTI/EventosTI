@@ -1,0 +1,13 @@
+---
+layout: post
+title: CapiConf 2020
+date:   2017-01-14 10:51:47 +0530
+categories: capiconf
+img: capiconf.jpg
+---
+
+O CapiConf é um grande encontro de pessoas, comunidades e entusiastas de TI. O evento teve sua primeira edição em 2014 e desde então vem abordando os principais tópicos e temáticas de interesse das comunidades tecnicas.
+
+Data: 15 e 16 de maio/2020
+
+Inscrições: [https://capiconf.com](https://capiconf.com)
