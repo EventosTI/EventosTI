@@ -1,4 +1,3 @@
-Demo: [https://tech-eventos.netlify.app/](https://tech-eventos.netlify.app/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2cc22fd5-8eb4-48c8-8459-f9c3ebdaf545/deploy-status)](https://app.netlify.com/sites/tech-eventos/deploys)
 
