@@ -1,7 +1,7 @@
 ---
 layout: post
 title: XIX Pylestras PUGCE
-date:   2020-04-30 10:51:47 +0530
+date:   2020-02-30 10:51:47 +0530
 categories: python
 img: pugce.png
 ---
